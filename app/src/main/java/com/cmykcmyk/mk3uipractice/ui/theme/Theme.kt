@@ -42,7 +42,7 @@ fun MK3UIPracticeTheme(
     val locales = LocalConfiguration.current.locales
     val typography = Typography(
         bodyLarge = TextStyle(
-            fontFamily = FontFamily(if (!locales.isEmpty and (locales[0].country == "RU")) Font(R.font.freesansboldoblique) else Font(R.font.mk3)),
+            fontFamily = FontFamily(if (!locales.isEmpty and (locales[0].country == "RU")) Font(R.font.mk3) else Font(R.font.mk3)),
             fontWeight = FontWeight.Normal,
             fontSize = 16.sp,
             lineHeight = 24.sp,
