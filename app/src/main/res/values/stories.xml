@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shangtsung_story">
+        Tsung is Shao Kahn\'s lead sorcerer.
+        He once fell out of favor with his emperor
+        after failing to win the Earth realm through tournament battle.
+        But the ever scheming Shang Tsung is instrumental in Kahn\'s conquest of Earth.
+        He has now been granted more power than ever.
+    </string>
+    <string name="sindel_story">
+        She once ruled the Outworld at Shao Kahn\'s side as his queen.
+        Now 10,000 years after her untimely death she is reborn on Earth.
+        Her evil intent is every match for Shao Kahn\'s tyranny. She is
+        the key to his occupation of Earth.
+    </string>
+    <string name="jax_story">
+        After failing to convince his superiors of the coming Outworld menace,
+        Jax begins to covertly prepare for future battle with Kahn\'s minions.
+        He outfits both arms with indestructible bionic implants. This is a war
+        Jax is prepared to win.
+    </string>
+    <string name="kano_story">
+        Kano is thought to have been killed in the first tournament.
+        Instead he\'s found alive in the Outworld where he once again
+        escapes capture by Sonya. Before the actual Outworld invasion,
+        Kano convinces Shao Kahn to spare his soul. Kahn needs someone
+        to teach his warriors how to use Earth\'s weapons.
+        Kano is the man to do it.
+    </string>
+    <string name="liukang_story">
+        After the Outworld invasion Liu Kang finds himself the prime target
+        of Kahn\'s extermination squads. He is the Shaolin champion and has
+        thwarted Kahn\'s schemes in the past. Of all the humans, Kang poses
+        the greatest threat to Shao Kahn\'s rule.
+    </string>
+    <string name="sonya_story">
+        Sonya disappeared after the first tournament
+        but was later rescued from the Outworld by Jax.
+        After returning to Earth she and Jax try to warn
+        the U.S. Government of the looming Outworld menace.
+        Lacking proof, they watch helplessly as Shao Kahn
+        begins his invasion.
+    </string>
+    <string name="stryker_story">
+        When the Outworld portal opens over a large city in North America,
+        panic and chaos rage out of control. Kurtis Stryker was the leader of
+        a Riot control brigade when Shao Kahn began taking souls. He finds
+        himself the lone survivor of a city once populated by millions.
+    </string>
+    <string name="smoke_story">
+        Smoke, unit LK-7T2, is the third prototype cyber-ninja built
+        by the Lin Kuei. He tried to escape the automation process with
+        Sub-Zero but was captured. His memories were stripped away,
+        leaving behind an emotionless killer. However, Sub-Zero believes
+        that within this machine is a human soul trying to escape.
+    </string>
+    <string name="subzero_story">
+        The ninja returns unmasked. He was betrayed by his own ninja clan the
+        Lin Kuei. He broke sacred codes of honor by leaving the clan and is marked
+        for death. But unlike the ninja of old his pursuers come as machines.
+        He must not only defend against the Outworld menace but must also elude
+        his soulless assassins.
+    </string>
+    <string name="cyrax_story">
+        Cyrax is unit LK-4D4. The 2nd of three prototype cybernetic ninjas built
+        by the Lin Kuei. Like his counterparts his last programmed command is to
+        find and terminate the rogue ninja, Sub-Zero. Without a soul, Cyrax goes
+        undetected by Shao Kahn and remains a possible threat against his occupation
+        of Earth.
+    </string>
+    <string name="sektor_story">
+        Sektor is actually the code name for unit LK-9T9. He was the first of three
+        prototype cybernetic ninjas built by the Lin Kuei. Sektor was once a human
+        assassin trained by the Lin Kuei. He volunteered for automation because of his
+        loyalty for the clan. Sektor survives the Outworld invasion - he has no soul to take.
+    </string>
+    <string name="nightwolf_story">
+        Works as a historian and preserver of his people\'s culture.
+        When Kahn\'s portal opens over North America, Nightwolf uses
+        the magics of his Shaman to protect his tribe\'s sacred land.
+        This area becomes a vital threat to Kahn\'s occupation of the Earth.
+    </string>
+    <string name="sheeva_story">
+        She was hand picked by Shao Kahn to serve as Sindel\'s personal protector.
+        She becomes suspicious of Shao Kahn\'s loyalty towards her race of Shokan
+        when he places Motaro as the leader of his extermination squads.
+        On the Outworld, Motaro\'s race of Centurions is natural enemy of the Shokan.
+    </string>
+    <string name="kunglao_story">
+        Kung Lao\'s plan to reform the White Lotus Society comes to a halt when Shao Kahn\'s
+        invasion takes the Earth by storm. As a chosen warrior, Kung Lao must use his greatest
+        fighting skills to bring down Shao Kahn\'s reign of terror.
+    </string>
+    <string name="kabal_story">
+        As a chosen warrior, his identity is a mystery to all. It\'s beieved that
+        he is the survivor of an attack by Shao Kahn\'s extermination squads.
+        As a result, he is viciously scarred and kept alive only by artificial respirators
+        and a rage for ending Shao Kahn\'s conquest.
+    </string>
+</resources>

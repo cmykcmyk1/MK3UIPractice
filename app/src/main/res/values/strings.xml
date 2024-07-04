@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">MK3 UI Practice</string>
+    <string name="app_description">
+        It\'s my first Android application. It doesn\'t make much sense.\n
+        Just to get familiar with the Compose tool.\n
+        For motivation, I wanted to repeat the menu of the childhood game.\n
+        \n
+        CmykCmyk 2024
+    </string>
+
+    <string name="intro_text">There is no knowledge\nthat is not power</string>
+
+    <string name="selection_title">Choose your fighter</string>
+    <string name="selection_note">2nd-click to select character</string>
+
+    <string name="back">Back</string>
+
+    <string name="shangtsung_name">Shang Tsung</string>
+    <string name="sindel_name">Sindel</string>
+    <string name="jax_name">Maj. Jax Briggs</string>
+    <string name="kano_name">Kano</string>
+    <string name="liukang_name">Liu Kang</string>
+    <string name="sonya_name">Lt. Sonya Blade</string>
+    <string name="stryker_name">Stryker</string>
+    <string name="smoke_name">Smoke</string>
+    <string name="subzero_name">Sub-Zero</string>
+    <string name="cyrax_name">Cyrax</string>
+    <string name="sektor_name">Sektor</string>
+    <string name="nightwolf_name">Night Wolf</string>
+    <string name="sheeva_name">Sheeva</string>
+    <string name="kunglao_name">Kung Lao</string>
+    <string name="kabal_name">Kabal</string>
+</resources>

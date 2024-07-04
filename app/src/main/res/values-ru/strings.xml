@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_description">
+        Моё первое приложение на Android. В нём нет особого смысла.\n
+        Просто, чтобы познакомиться с инструментом Compose.\n
+        Для мотивации захотелось повторить меню игры детства.\n
+        \n
+        CmykCmyk 2024
+    </string>
+
+    <string name="intro_text">Нет знаний,\nне обладающих силой</string>
+
+    <string name="selection_title">Выбери своего бойца</string>
+    <string name="selection_note">Второе нажатие - выбор персонажа</string>
+
+    <string name="back">Назад</string>
+
+    <string name="shangtsung_name">Шан Цунг</string>
+    <string name="sindel_name">Синдель</string>
+    <string name="jax_name">Майор Джакс Бриггс</string>
+    <string name="kano_name">Кано</string>
+    <string name="liukang_name">Лю Кенг</string>
+    <string name="sonya_name">Лейтенант Соня Блейд</string>
+    <string name="stryker_name">Страйкер</string>
+    <string name="smoke_name">Смоук</string>
+    <string name="subzero_name">Саб-Зиро</string>
+    <string name="cyrax_name">Сайрекс</string>
+    <string name="sektor_name">Сектор</string>
+    <string name="nightwolf_name">Ночной Волк</string>
+    <string name="sheeva_name">Шива</string>
+    <string name="kunglao_name">Кун Лао</string>
+    <string name="kabal_name">Кабал</string>
+</resources>
