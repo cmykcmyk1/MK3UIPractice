@@ -40,7 +40,7 @@
 
 It's my first Android application. It doesn't make much sense.  
 Just to get acquainted with Android development.  
-For motivation, I wanted to repeat the menu of the childhood game.  
+For motivation, I wanted to repeat the menu from the childhood game.  
 
 ![screenshot1](https://github.com/itsroar/MK3UIPractice/releases/download/android/screenshot1.jpg)
 ![screenshot2](https://github.com/itsroar/MK3UIPractice/releases/download/android/screenshot2.jpg)
