@@ -1,6 +1,6 @@
 ## MK3 UI Practice
 
-![title](https://github.com/itsroar/MK3UIPractice/releases/download/android/title.png)
+![title](https://github.com/cmykcmyk1/MK3UIPractice/releases/download/android/title.png)
 
 <details>
 <summary>Русский</summary>
@@ -10,8 +10,8 @@
 Просто, чтобы познакомиться с разработкой под Android.  
 Для мотивации, захотелось повторить меню из игры детства.  
 
-![screenshot1](https://github.com/itsroar/MK3UIPractice/releases/download/android/screenshot1.jpg)
-![screenshot2](https://github.com/itsroar/MK3UIPractice/releases/download/android/screenshot2.jpg)
+![screenshot1](https://github.com/cmykcmyk1/MK3UIPractice/releases/download/android/screenshot1.jpg)
+![screenshot2](https://github.com/cmykcmyk1/MK3UIPractice/releases/download/android/screenshot2.jpg)
 
 Представляю Вашему вниманию меню из игры Mortal Kombat 3.  
 Можно выбирать персонажей и читать их биографию.  
@@ -42,8 +42,8 @@ It's my first Android application. It doesn't make much sense.
 Just to get acquainted with Android development.  
 For motivation, I wanted to repeat the menu from the childhood game.  
 
-![screenshot1](https://github.com/itsroar/MK3UIPractice/releases/download/android/screenshot1.jpg)
-![screenshot2](https://github.com/itsroar/MK3UIPractice/releases/download/android/screenshot2.jpg)
+![screenshot1](https://github.com/cmykcmyk1/MK3UIPractice/releases/download/android/screenshot1.jpg)
+![screenshot2](https://github.com/cmykcmyk1/MK3UIPractice/releases/download/android/screenshot2.jpg)
 
 I present to your attention a menu from the game Mortal Kombat 3.  
 You can select characters and read their biography.  
